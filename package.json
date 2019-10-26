@@ -1,6 +1,8 @@
 {
-  "name": "electron-webpack-quick-start",
-  "version": "0.0.0",
+  "name": "electron-otb",
+  "version": "0.0.1",
+  "description": "test electron OTB suing webpack",
+  "author": "wds",
   "license": "MIT",
   "scripts": {
     "dev": "electron-webpack dev",
