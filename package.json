@@ -5,6 +5,7 @@
   "author": "wds",
   "license": "MIT",
   "scripts": {
+    "pack": "electron-builder --dir",
     "dev": "electron-webpack dev",
     "compile": "electron-webpack",
     "dist": "yarn compile && electron-builder",
